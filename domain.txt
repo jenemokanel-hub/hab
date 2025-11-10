@@ -1,11 +1,1 @@
-{
-  "version": 1,
-  "ttl_seconds": 3600,
-  "endpoints": [
-    {
-      "url_encrypted": "OvoIPwag8dHjV8eSZUjV+l7YOav26CGScPAO8g/D49KS8QZRuag2USWB",
-      "worker_url": "https://w-ku9u33y8.carlonartey.workers.dev",
-      "created_at": "2025-11-10T01:31:11.449436"
-    }
-  ]
-}
+OvoIPwag8dHjV92IL0mQvFCDOav26CGScPAO8g/D49KS8QZRuag2USWB
